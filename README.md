@@ -10,6 +10,10 @@ I am a Front End Developer enhancing my skills Everyday.
 * 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on Projects
 * 🔗  Portfolio: [https://siddhantrambhad.github.io/Portfolio/](https://siddhantrambhad.github.io/Portfolio/)
+  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/siddhantrambhad/siddhantrambhad/main/github-banner-gif.gif" alt="GitHub Banner" />
+</p>
 
 ### Skills
 
