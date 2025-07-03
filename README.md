@@ -50,3 +50,6 @@ I am a Front End Developer enhancing my skills Everyday.
 <a href="http://www.github.com/siddhantrambhad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantrambhad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/siddhantrambhad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantrambhad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddhantrambhad&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
