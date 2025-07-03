@@ -1,5 +1,11 @@
-Hi 👋 My name is Siddhant Rambhad
-=================================
+<p align="center">
+  <img src="https://raw.githubusercontent.com/siddhantrambhad/siddhantrambhad/main/github-banner-gif.gif" alt="GitHub Banner" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&width=500&lines=Hi!+%F0%9F%91%8B+Myself+is+Siddhant+Rambhad" alt="Typing SVG" />
+</p>
+
+
 
 I am a Front End Developer enhancing my skills Everyday.
 --------------------------------------------------------
@@ -11,9 +17,6 @@ I am a Front End Developer enhancing my skills Everyday.
 * 🤝  I'm open to collaborating on Projects
 * 🔗  Portfolio: [https://siddhantrambhad.github.io/Portfolio/](https://siddhantrambhad.github.io/Portfolio/)
   
-<p align="center">
-  <img src="https://raw.githubusercontent.com/siddhantrambhad/siddhantrambhad/main/github-banner-gif.gif" alt="GitHub Banner" />
-</p>
 
 ### Skills
 
