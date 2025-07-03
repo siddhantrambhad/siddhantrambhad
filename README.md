@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/siddhantrambhad/siddhantrambhad/main/github-banner-gif.gif" alt="GitHub Banner" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&width=500&lines=Hi!+%F0%9F%91%8B+Myself+is+Siddhant+Rambhad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&width=500&lines=Hi!+%F0%9F%91%8B+Myself+Siddhant+Rambhad" alt="Typing SVG" />
 </p>
 
 
