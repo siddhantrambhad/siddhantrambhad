@@ -7,7 +7,7 @@
 
 
 
-I am a Front End Developer enhancing my skills Everyday.
+I am a Software Developer enhancing my skills Everyday.
 --------------------------------------------------------
 🌐 [Visit My Portfolio](https://siddhantrambhad.github.io/Portfolio/)
 
