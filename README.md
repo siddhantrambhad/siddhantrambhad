@@ -7,13 +7,10 @@
 
 
 
-I am a Software Developer enhancing my skills Everyday.
---------------------------------------------------------
 🌐 [Visit My Portfolio](https://siddhantrambhad.github.io/Portfolio/)
 
 * 🌍  I'm based in Nagpur
 * ✉️  You can contact me at [siddhantr43@gmail.com](mailto:siddhantr43@gmail.com)
-* 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on Projects
 * 🔗  Portfolio: [https://siddhantrambhad.github.io/Portfolio/](https://siddhantrambhad.github.io/Portfolio/)
   
