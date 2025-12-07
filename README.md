@@ -9,7 +9,6 @@
 
 🌐 [Visit My Portfolio](https://siddhantrambhad.github.io/Portfolio/)
 
-* 🌍  I'm based in Nagpur
 * ✉️  You can contact me at [siddhantr43@gmail.com](mailto:siddhantr43@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 * 🔗  Portfolio: [https://siddhantrambhad.github.io/Portfolio/](https://siddhantrambhad.github.io/Portfolio/)
@@ -49,13 +48,25 @@
 
 ### Badges
 
-<b>My GitHub Stats</b>
+## <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/siddhantrambhad"><img src="https://github-readme-stats.vercel.app/api?username=siddhantrambhad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="siddhantrambhad's GitHub stats" /></a>
-
-<a href="http://www.github.com/siddhantrambhad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantrambhad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/siddhantrambhad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantrambhad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddhantrambhad&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+
+  <!-- Streak Stats -->
+  <a href="https://github.com/siddhantrambhad">
+    <img 
+      src="https://streak-stats.demolab.com?user=siddhantrambhad&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
+      alt="GitHub Streak"
+    />
+  </a>
+
+
+
+  <br><br>
+
+ <p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=siddhantrambhad&label=Profile%20Views&color=0e75b6&style=flat-square" 
+    alt="Profile Views"
+  />
 </p>
