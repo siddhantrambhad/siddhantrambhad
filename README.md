@@ -7,11 +7,11 @@
 
 
 
-🌐 [Visit My Portfolio](https://siddhantrambhad.github.io/Portfolio/)
+
 
 * ✉️  You can contact me at [siddhantr43@gmail.com](mailto:siddhantr43@gmail.com)
 * 🤝  I'm open to collaborating on Projects
-* 🔗  Portfolio: [https://siddhantrambhad.github.io/Portfolio/](https://siddhantrambhad.github.io/Portfolio/)
+
   
 
 ### Skills
